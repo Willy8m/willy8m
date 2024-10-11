@@ -1,4 +1,4 @@
-# 🌀🛸🪐☀️ About Me: 
+# About Me: 🌀🛸🪐☀️ 
 Physicist pursuing a master's in Machine Learning. Currently working at Grup Saltó developing AI functionalities for companion robots. 🧓🏼🤖
 
 
