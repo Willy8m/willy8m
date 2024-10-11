@@ -1,5 +1,6 @@
 # About Me: 🌀🛸🪐☀️ 
 Physicist pursuing a master's in Machine Learning. Currently working at Grup Saltó developing AI functionalities for companion robots. 🧓🏼🤖
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guillem-barta-gonzalez/) 
 
 # 💻 Tech Stack:
