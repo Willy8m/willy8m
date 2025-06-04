@@ -1,5 +1,5 @@
 # About Me: 🌀🛸🪐☀️ 
-MSc in AI and BSc in Physics. Currently working at Grup Saltó developing AI functionalities for companion robots. 🧓🏼🤖
+MSc in Artificial Intelligence and BSc in Physics. Currently working at Grup Saltó developing AI functionalities for companion robots. 🧓🏼🤖
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guillem-barta-gonzalez/) 
 
